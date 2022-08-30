@@ -1,0 +1,14 @@
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.exe
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.deps.json
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.runtimeconfig.json
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.runtimeconfig.dev.json
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.dll
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.pdb
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.csproj.AssemblyReference.cache
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.AssemblyInfoInputs.cache
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.AssemblyInfo.cs
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.csproj.CoreCompileInputs.cache
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.dll
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.pdb
+C:\Programming\ProgrammingBasics\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.genruntimeconfig.cache

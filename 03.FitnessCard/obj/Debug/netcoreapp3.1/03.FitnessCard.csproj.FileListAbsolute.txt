@@ -1,0 +1,14 @@
+C:\Programming\ProgrammingBasics\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.exe
+C:\Programming\ProgrammingBasics\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.deps.json
+C:\Programming\ProgrammingBasics\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.runtimeconfig.json
+C:\Programming\ProgrammingBasics\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.runtimeconfig.dev.json
+C:\Programming\ProgrammingBasics\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.dll
+C:\Programming\ProgrammingBasics\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.pdb
+C:\Programming\ProgrammingBasics\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.csproj.AssemblyReference.cache
+C:\Programming\ProgrammingBasics\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ProgrammingBasics\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.AssemblyInfoInputs.cache
+C:\Programming\ProgrammingBasics\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.AssemblyInfo.cs
+C:\Programming\ProgrammingBasics\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.csproj.CoreCompileInputs.cache
+C:\Programming\ProgrammingBasics\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.dll
+C:\Programming\ProgrammingBasics\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.pdb
+C:\Programming\ProgrammingBasics\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.genruntimeconfig.cache

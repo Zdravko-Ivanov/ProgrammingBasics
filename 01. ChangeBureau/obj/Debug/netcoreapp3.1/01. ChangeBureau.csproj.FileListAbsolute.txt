@@ -1,0 +1,14 @@
+C:\Programming\ProgrammingBasics\01. ChangeBureau\bin\Debug\netcoreapp3.1\01. ChangeBureau.exe
+C:\Programming\ProgrammingBasics\01. ChangeBureau\bin\Debug\netcoreapp3.1\01. ChangeBureau.deps.json
+C:\Programming\ProgrammingBasics\01. ChangeBureau\bin\Debug\netcoreapp3.1\01. ChangeBureau.runtimeconfig.json
+C:\Programming\ProgrammingBasics\01. ChangeBureau\bin\Debug\netcoreapp3.1\01. ChangeBureau.runtimeconfig.dev.json
+C:\Programming\ProgrammingBasics\01. ChangeBureau\bin\Debug\netcoreapp3.1\01. ChangeBureau.dll
+C:\Programming\ProgrammingBasics\01. ChangeBureau\bin\Debug\netcoreapp3.1\01. ChangeBureau.pdb
+C:\Programming\ProgrammingBasics\01. ChangeBureau\obj\Debug\netcoreapp3.1\01. ChangeBureau.csproj.AssemblyReference.cache
+C:\Programming\ProgrammingBasics\01. ChangeBureau\obj\Debug\netcoreapp3.1\01. ChangeBureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ProgrammingBasics\01. ChangeBureau\obj\Debug\netcoreapp3.1\01. ChangeBureau.AssemblyInfoInputs.cache
+C:\Programming\ProgrammingBasics\01. ChangeBureau\obj\Debug\netcoreapp3.1\01. ChangeBureau.AssemblyInfo.cs
+C:\Programming\ProgrammingBasics\01. ChangeBureau\obj\Debug\netcoreapp3.1\01. ChangeBureau.csproj.CoreCompileInputs.cache
+C:\Programming\ProgrammingBasics\01. ChangeBureau\obj\Debug\netcoreapp3.1\01. ChangeBureau.dll
+C:\Programming\ProgrammingBasics\01. ChangeBureau\obj\Debug\netcoreapp3.1\01. ChangeBureau.pdb
+C:\Programming\ProgrammingBasics\01. ChangeBureau\obj\Debug\netcoreapp3.1\01. ChangeBureau.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Programming\ProgrammingBasics\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.csproj.AssemblyReference.cache
+C:\Programming\ProgrammingBasics\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ProgrammingBasics\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.AssemblyInfoInputs.cache
+C:\Programming\ProgrammingBasics\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.AssemblyInfo.cs
+C:\Programming\ProgrammingBasics\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.csproj.CoreCompileInputs.cache
+C:\Programming\ProgrammingBasics\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.exe
+C:\Programming\ProgrammingBasics\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.deps.json
+C:\Programming\ProgrammingBasics\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.runtimeconfig.json
+C:\Programming\ProgrammingBasics\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.runtimeconfig.dev.json
+C:\Programming\ProgrammingBasics\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.dll
+C:\Programming\ProgrammingBasics\02.CatWalking\bin\Debug\netcoreapp3.1\02.CatWalking.pdb
+C:\Programming\ProgrammingBasics\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.dll
+C:\Programming\ProgrammingBasics\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.pdb
+C:\Programming\ProgrammingBasics\02.CatWalking\obj\Debug\netcoreapp3.1\02.CatWalking.genruntimeconfig.cache

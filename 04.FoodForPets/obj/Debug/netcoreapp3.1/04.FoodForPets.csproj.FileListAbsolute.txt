@@ -1,0 +1,14 @@
+C:\Programming\ProgrammingBasics\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.exe
+C:\Programming\ProgrammingBasics\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.deps.json
+C:\Programming\ProgrammingBasics\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.runtimeconfig.json
+C:\Programming\ProgrammingBasics\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.runtimeconfig.dev.json
+C:\Programming\ProgrammingBasics\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.dll
+C:\Programming\ProgrammingBasics\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.pdb
+C:\Programming\ProgrammingBasics\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.csproj.AssemblyReference.cache
+C:\Programming\ProgrammingBasics\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ProgrammingBasics\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.AssemblyInfoInputs.cache
+C:\Programming\ProgrammingBasics\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.AssemblyInfo.cs
+C:\Programming\ProgrammingBasics\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.csproj.CoreCompileInputs.cache
+C:\Programming\ProgrammingBasics\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.dll
+C:\Programming\ProgrammingBasics\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.pdb
+C:\Programming\ProgrammingBasics\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.genruntimeconfig.cache

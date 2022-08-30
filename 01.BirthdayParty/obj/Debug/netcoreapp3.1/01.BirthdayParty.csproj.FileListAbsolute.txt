@@ -1,0 +1,14 @@
+C:\Programming\ProgrammingBasics\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.exe
+C:\Programming\ProgrammingBasics\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.deps.json
+C:\Programming\ProgrammingBasics\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.runtimeconfig.json
+C:\Programming\ProgrammingBasics\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.runtimeconfig.dev.json
+C:\Programming\ProgrammingBasics\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.dll
+C:\Programming\ProgrammingBasics\01.BirthdayParty\bin\Debug\netcoreapp3.1\01.BirthdayParty.pdb
+C:\Programming\ProgrammingBasics\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.csproj.AssemblyReference.cache
+C:\Programming\ProgrammingBasics\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ProgrammingBasics\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.AssemblyInfoInputs.cache
+C:\Programming\ProgrammingBasics\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.AssemblyInfo.cs
+C:\Programming\ProgrammingBasics\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.csproj.CoreCompileInputs.cache
+C:\Programming\ProgrammingBasics\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.dll
+C:\Programming\ProgrammingBasics\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.pdb
+C:\Programming\ProgrammingBasics\01.BirthdayParty\obj\Debug\netcoreapp3.1\01.BirthdayParty.genruntimeconfig.cache
