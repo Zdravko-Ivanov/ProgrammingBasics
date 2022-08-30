@@ -1,0 +1,14 @@
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.exe
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.deps.json
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.runtimeconfig.json
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.runtimeconfig.dev.json
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.dll
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\bin\Debug\netcoreapp3.1\06.TournamentOfChristmas.pdb
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.csproj.AssemblyReference.cache
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.AssemblyInfoInputs.cache
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.AssemblyInfo.cs
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.csproj.CoreCompileInputs.cache
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.dll
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.pdb
+C:\Programming\ProgrammingBasics\06.TournamentOfChristmas\obj\Debug\netcoreapp3.1\06.TournamentOfChristmas.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Programming\ProgrammingBasics\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.csproj.AssemblyReference.cache
+C:\Programming\ProgrammingBasics\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ProgrammingBasics\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.AssemblyInfoInputs.cache
+C:\Programming\ProgrammingBasics\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.AssemblyInfo.cs
+C:\Programming\ProgrammingBasics\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.csproj.CoreCompileInputs.cache
+C:\Programming\ProgrammingBasics\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.exe
+C:\Programming\ProgrammingBasics\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.deps.json
+C:\Programming\ProgrammingBasics\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.runtimeconfig.json
+C:\Programming\ProgrammingBasics\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.runtimeconfig.dev.json
+C:\Programming\ProgrammingBasics\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.dll
+C:\Programming\ProgrammingBasics\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.pdb
+C:\Programming\ProgrammingBasics\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.dll
+C:\Programming\ProgrammingBasics\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.pdb
+C:\Programming\ProgrammingBasics\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.genruntimeconfig.cache

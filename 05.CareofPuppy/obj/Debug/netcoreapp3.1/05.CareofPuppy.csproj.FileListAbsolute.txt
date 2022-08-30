@@ -1,0 +1,14 @@
+C:\Programming\ProgrammingBasics\05.CareofPuppy\bin\Debug\netcoreapp3.1\05.CareofPuppy.exe
+C:\Programming\ProgrammingBasics\05.CareofPuppy\bin\Debug\netcoreapp3.1\05.CareofPuppy.deps.json
+C:\Programming\ProgrammingBasics\05.CareofPuppy\bin\Debug\netcoreapp3.1\05.CareofPuppy.runtimeconfig.json
+C:\Programming\ProgrammingBasics\05.CareofPuppy\bin\Debug\netcoreapp3.1\05.CareofPuppy.runtimeconfig.dev.json
+C:\Programming\ProgrammingBasics\05.CareofPuppy\bin\Debug\netcoreapp3.1\05.CareofPuppy.dll
+C:\Programming\ProgrammingBasics\05.CareofPuppy\bin\Debug\netcoreapp3.1\05.CareofPuppy.pdb
+C:\Programming\ProgrammingBasics\05.CareofPuppy\obj\Debug\netcoreapp3.1\05.CareofPuppy.csproj.AssemblyReference.cache
+C:\Programming\ProgrammingBasics\05.CareofPuppy\obj\Debug\netcoreapp3.1\05.CareofPuppy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ProgrammingBasics\05.CareofPuppy\obj\Debug\netcoreapp3.1\05.CareofPuppy.AssemblyInfoInputs.cache
+C:\Programming\ProgrammingBasics\05.CareofPuppy\obj\Debug\netcoreapp3.1\05.CareofPuppy.AssemblyInfo.cs
+C:\Programming\ProgrammingBasics\05.CareofPuppy\obj\Debug\netcoreapp3.1\05.CareofPuppy.csproj.CoreCompileInputs.cache
+C:\Programming\ProgrammingBasics\05.CareofPuppy\obj\Debug\netcoreapp3.1\05.CareofPuppy.dll
+C:\Programming\ProgrammingBasics\05.CareofPuppy\obj\Debug\netcoreapp3.1\05.CareofPuppy.pdb
+C:\Programming\ProgrammingBasics\05.CareofPuppy\obj\Debug\netcoreapp3.1\05.CareofPuppy.genruntimeconfig.cache

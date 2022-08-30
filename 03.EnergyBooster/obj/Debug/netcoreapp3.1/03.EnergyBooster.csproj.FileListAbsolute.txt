@@ -1,0 +1,14 @@
+C:\Programming\ProgrammingBasics\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.exe
+C:\Programming\ProgrammingBasics\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.deps.json
+C:\Programming\ProgrammingBasics\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.runtimeconfig.json
+C:\Programming\ProgrammingBasics\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.runtimeconfig.dev.json
+C:\Programming\ProgrammingBasics\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.dll
+C:\Programming\ProgrammingBasics\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.pdb
+C:\Programming\ProgrammingBasics\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.csproj.AssemblyReference.cache
+C:\Programming\ProgrammingBasics\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ProgrammingBasics\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.AssemblyInfoInputs.cache
+C:\Programming\ProgrammingBasics\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.AssemblyInfo.cs
+C:\Programming\ProgrammingBasics\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.csproj.CoreCompileInputs.cache
+C:\Programming\ProgrammingBasics\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.dll
+C:\Programming\ProgrammingBasics\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.pdb
+C:\Programming\ProgrammingBasics\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.genruntimeconfig.cache
